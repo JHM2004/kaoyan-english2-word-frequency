@@ -1,6 +1,6 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 """
-考研英语（一）2017-2026 十年真题词频统计
+考研英语（二）2017-2026 十年真题词频统计
 
 用法:
     python scripts/build_word_frequency.py
@@ -23,8 +23,8 @@ SRC_DIR = BASE_DIR / "10年真题"
 OUT_DIR = BASE_DIR / "output"
 
 # ---------------------------------------------------------------- 分词规则
-# 英文单词：允许词内连字符与撇号（Parkrun's / well-paid / don't）
-TOKEN_RE = re.compile(r"[A-Za-z]+(?:['’][A-Za-z]+)*(?:-[A-Za-z]+)*")
+# 英文单词：允许撇号（Parkrun's / don't）；连字符在分词前先拆成空格
+TOKEN_RE = re.compile(r"[A-Za-z]+(?:['’][A-Za-z]+)*")
 HEADING_RE = re.compile(r"^(#{1,6})\s*(.*?)\s*$")
 NUMBERED_RE = re.compile(r"^\d{1,3}\.\s")
 OPTION_RE = re.compile(r"^\[[A-G]\]")
@@ -49,9 +49,10 @@ STOPWORDS = set(
 
 
 def tokenize(text: str) -> list[str]:
-    """把一段英文拆成小写单词列表。"""
+    """把一段英文拆成小写单词列表；连字符复合词拆成两个单词分别计数。"""
     words = []
-    for raw in TOKEN_RE.findall(text.replace("’", "'")):
+    flat = text.replace("’", "'").replace("-", " ").replace("‐", " ").replace("‑", " ")
+    for raw in TOKEN_RE.findall(flat):
         w = raw.lower()
         # 去掉所有格与缩写尾巴：parkrun's -> parkrun, kids' -> kids
         if w.endswith("'s"):
@@ -331,7 +332,7 @@ def write_xlsx(path: Path, data: dict) -> None:
     ws.title = "统计说明"
     s = data["summary"]
     info = [
-        ("考研英语（一）十年真题词频统计", ""),
+        ("考研英语（二）十年真题词频统计", ""),
         ("语料范围", f"{s['years'][0]}—{s['years'][-1]} 年共 {s['papers']} 套试卷（10年真题/*.md）"),
         ("统计口径", "将 10 套试卷合并为一个大文本后统一分词计数"),
         ("总词数（token）", f"{s['total_words']:,}"),
@@ -346,7 +347,7 @@ def write_xlsx(path: Path, data: dict) -> None:
         ("占比说明", f"各表占比均以该表统计范围的总词数为分母（全量表 {s['total_words']:,}，"
                      f"正文表 {s['body_words']:,}）"),
         ("分词规则", "仅统计英文字母构成的单词；忽略数字、标点、选项标号；"
-                     "连字符词（well-paid）与缩写（don't）视为一个词；"
+                     "连字符复合词拆开分别计数（carbon-absorbing → carbon + absorbing）；缩写（don't）视为一个词；"
                      "所有格（Parkrun's）归为词根（parkrun）；统一小写；不区分词形（work/works/working 分开统计）"),
         ("工作表说明", "全量词频＝正文＋题干＋选项＋指令；正文词频＝仅文章正文；"
                        "实词词频＝在正文基础上剔除 the/a/of 等高频功能词后的可背单词"),
@@ -464,7 +465,7 @@ def write_html(path: Path, data: dict) -> None:
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>考研英语（一）十年真题词频统计报告</title>
+<title>考研英语（二）十年真题词频统计报告</title>
 <style>
   :root {{
     --bg:#f5f7fa; --card:#ffffff; --ink:#1c2430; --sub:#6b7785;
@@ -521,7 +522,7 @@ def write_html(path: Path, data: dict) -> None:
 <body>
 <div class="wrap">
   <header>
-    <h1>考研英语（一）十年真题词频统计</h1>
+    <h1>考研英语（二）十年真题词频统计</h1>
     <div class="sub">{years[0]}—{years[-1]} 年 · {s['papers']} 套试卷合并统计 · 共 {s['total_words']:,} 个单词，
     不同词形 {s['unique_words']:,} 个</div>
   </header>
@@ -653,7 +654,7 @@ def main() -> None:
     write_csv(OUT_DIR / "词频总表_正文.csv", rows_body, years, True)
     write_csv(OUT_DIR / "词频总表_实词.csv",
               renumber([r for r in rows_body if not r["is_stop"]]), years, True)
-    write_xlsx(OUT_DIR / "考研英语一2017-2026词频总表.xlsx", data)
+    write_xlsx(OUT_DIR / "考研英语二2017-2026词频总表.xlsx", data)
     write_simple_xlsx(OUT_DIR / "词频简表.xlsx", rows_full, load_meanings())
     write_html(OUT_DIR / "词频分析报告.html", data)
 

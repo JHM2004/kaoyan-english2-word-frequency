@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 """
 生成单词中文释义表 data/word_meanings.csv
 
@@ -54,9 +54,7 @@ POS_RE = re.compile(r"^([a-zA-Z]+\.)\s*")
 
 # 词典未收录的真题词（派生词、专有名词、新词），人工补齐
 SUPPLEMENT = {
-    "a-g": "选项标号 A—G",
-    "acqui-hires": "人才收购（acqui-hire 的复数）",
-    "baltimore-based": "总部位于巴尔的摩的",
+    "acqui": "收购（acqui-hire 人才收购的前半部分）",
     "brexit": "英国脱欧",
     "ccpa": "《加州消费者隐私法案》",
     "cofounded": "共同创办",
@@ -68,7 +66,6 @@ SUPPLEMENT = {
     "homebuying": "购房",
     "housebuilding": "房屋建造",
     "inboxes": "收件箱",
-    "inflation-adjusted": "经通胀调整的",
     "ipads": "iPad 平板电脑",
     "italiane": "意大利的（意大利语）",
     "ivywise": "IvyWise（美国升学咨询机构）",
@@ -76,7 +73,6 @@ SUPPLEMENT = {
     "millennials": "千禧一代",
     "myjobquote": "MyJobQuote（英国装修报价网站）",
     "naismiths": "Naismiths（英国测量师行）",
-    "oft-debated": "常被争论的",
     "outputted": "输出（output 的过去式）",
     "parkrun": "公园跑（英国免费社区跑步活动）",
     "personalisation": "个性化（英式拼写）",
@@ -204,9 +200,6 @@ def main() -> None:
             bases.add(c)
         if w in IRREGULAR:
             bases.add(IRREGULAR[w])
-        if "-" in w:
-            head, _, tail = w.rpartition("-")
-            bases.update({head, tail})
 
     need = bases - word_set
     base_rows: dict[str, dict] = {}
@@ -244,10 +237,6 @@ def main() -> None:
         if ex_base:
             order.append(ex_base)
         order += candidates(w)
-        # 连字符复合词：退而求其次，看后半部分 / 前半部分
-        if "-" in w:
-            head, _, tail = w.rpartition("-")
-            order += [tail, head]
         for c in order:
             if c == w or len(c) < 2:
                 continue

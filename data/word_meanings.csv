@@ -1,5 +1,4 @@
 ﻿单词,中文意思
-a-g,选项标号 A—G
 aaron,n. 亚伦（男子名）；[圣经]亚伦（摩西之兄；犹太教的第一祭司长）
 abcs,预定章程；美国广播公司；澳大利亚广播公司
 abilities,n. 能力；才干
@@ -14,6 +13,7 @@ absence,n. 缺席；缺乏；没有
 absolutely,adv. 完全地；绝对地；确确实实地
 absorb,vt. 吸收；使全神贯注；同化
 absorbed,a. 全神贯注的；一心一意的
+absorbing,a. 吸引人的；非常有趣的
 absurd,a. 荒谬的；不合理的；可笑的
 abundance,n. 丰富；充足；大量
 abuses,v. 滥用；虐待；辱骂（abuse的三单形式）
@@ -53,7 +53,7 @@ achieved,a. 取得的；完成的
 achieving,取得
 acknowledge,vt. 承认；告知收悉；答谢
 acknowledging,n. 确认；答谢顾客
-acqui-hires,人才收购（acqui-hire 的复数）
+acqui,收购（acqui-hire 人才收购的前半部分）
 acquire,vt. 获得；学到
 acquired,a. 获得的；后天的
 acquisitions,n. 获得；获得物
@@ -91,12 +91,13 @@ additionally,adv. 另外；此外
 address,n. 住址；演说；举止
 addressed,a. 编址的；收信地址；处理
 adds,vt. 增加；添加；附带说明
-adegboyega-edun,（专有名词）
+adegboyega,（专有名词）
 adequate,a. 适当的；足够的
 adequately,adv. 足够地；适当地
 adhere,vi. 依附；粘着；坚持
 adjective,n. 形容词
 adjust,vt. 调整；使适应于；校准
+adjusted,a. 调整过的
 adjusting,调准
 adjustment,n. 调整；调节；校正
 admin,行政管理程序
@@ -123,7 +124,6 @@ adventurous,a. 喜欢冒险的；有进取心的；危险的
 advertisers,n. 做广告者；广告客户
 advertising,n. 广告业；广告
 advice,n. 忠告；劝告；意见
-advice-seekers,n. 搜索者；探求者( seeker的复数形式 )
 advisable,a. 适当的；明智的
 advise,vt. 劝告；给...出主意；通知
 advised,a. 考虑过的；知情的
@@ -136,6 +136,7 @@ affect,vt. 影响；感动；假装
 affected,a. 假装的；做作的；受影响的
 affection,n. 影响；病；喜爱
 affects,v. 影响；假装；喜欢（affect的三单形式）
+affiliated,a. 有关连的；附属的
 affirmative,a. 肯定的；赞成的；积极的
 afford,vt. 买得起；足以；给予
 affordable,普及型
@@ -144,6 +145,7 @@ after,prep. 在...之后；由于
 again,adv. 再一次；又；到原处
 against,prep. 反对；对着；倚靠
 age,n. 年龄；老年；成年
+aged,a. 老的；陈的；有...岁的
 agencies,n. 代理机构；经销商；中介
 agency,n. 代理机构；经销商；中介
 agenda,pl. 议程；日常工作事项
@@ -159,21 +161,18 @@ agricultural,a. 农业的
 agriculture,n. 农业
 ahead,a. 领先的；预先的；向前的
 ai,附加信息；人工智能
-ai-produced,v. 创作；产生；制造（produce的过去式和过去分词）
 aim,n. 目标；瞄准；击中目标的能力
 aimed,目标
 aims,自动化工业管理系统；自动化信息管理系统
 air,n. 空气；旋律；态度
 airlines,n. 航线；航线的设备；航空公司
 alert,a. 警觉的；灵敏的；留心的
-alert-issuing,v. 出版( issue的现在分词 )；发表；宣布
 alerts,a. 警觉的；灵敏的；留心的
 algorithms,n. 算法
 aligned,a. 对齐的；均衡的
 alike,a. 相似的；同样的
 alive,a. 活着的；活泼的；敏感的
 all,a. 所有的；全部的；一切的
-all-time,a. 全部时间的；空前的；创记录的
 allays,vt. 使平静；使缓和
 alleged,a. 被断言的；所谓的
 alleviating,缓解
@@ -183,6 +182,7 @@ allow,vt. 允许；同意给予；承认
 allowed,a. 允许；容许的
 allowing,vt. 允许；同意给予；承认
 allows,n. 允许
+almeida,n. (Almeida)人名；(法、西、葡、英)阿尔梅达
 almost,adv. 几乎；差不多
 alone,a. 孤独的；单独的；独自的
 along,adv. 平行地；向前
@@ -233,7 +233,6 @@ andrew,n. 安德鲁（男子名）
 angeles,n. 安杰利斯（姓氏）；天使城（菲律宾地名）
 anger,n. 忿怒
 animal,n. 动物
-animal-friendly,a. 友好的；亲切的；互助的
 animals,n. 动物
 anne,n. 安妮（女子名）
 announced,宣布的
@@ -401,7 +400,6 @@ awkward,a. 笨拙的；棘手的
 babies,n. 婴孩
 bachelor,n. 单身汉；学士
 back,a. 后面的
-back-and-forth,反复地；来回地
 backfire,n. 逆火；回火；放火
 background,n. 背景；背景资料
 backlog,n. 积压待办的事务；积压而未交付的订货；积压的工作
@@ -418,7 +416,7 @@ balances,n. 平衡；差额
 balancing,平衡；均衡；结算
 balch,鲍尔奇
 ball,n. 球；舞会；球状物
-baltimore-based,总部位于巴尔的摩的
+baltimore,n. 巴尔的摩
 ban,n. 禁令
 bandwidth,n. 频带宽度；通带宽度
 banks,n. 银行；堤；岸
@@ -434,7 +432,6 @@ basis,n. 基础；主要成分
 baskets,n. 篮；篮子
 batteries,n. 电池；殴打
 battery,n. 电池；殴打
-battery-powered,电池供电的
 battles,n. 战役
 be,v. 是；表示；在
 beacon,n. 烽火；灯塔
@@ -489,7 +486,6 @@ bet,n. 打赌；赌注
 bets,n. 打赌；赌注
 betsy,n. 贝琪（女子名；等于Elizabeth）
 better,a. 较好的
-better-trained,a. 受过较好训练的
 betting,n. 打赌
 between,prep. 在...之间
 beyond,prep. 超过；在那一边；迟于
@@ -522,7 +518,7 @@ blame,n. 过失；责备
 blamed,a. 该死的；该受诅咒的
 blaming,vbl. 归咎；责备；谴责
 blank,n. 空格；空白
-bleed-over,adv. 结束；越过；从头到尾
+bleed,vi. 流血；悲痛；渗出
 block,n. 街区；木块；石块
 blood,n. 血；血统；流血
 bloomington,n. 布卢明顿（美国城市名）
@@ -535,6 +531,7 @@ boasting,v. 吹嘘；夸耀（boast的ing形式）
 boat,n. 船
 bodies,n. 身体；人；尸体
 body,n. 身体；人；尸体
+boggling,vi. 犹豫；踌躇；吃惊
 bold,a. 大胆的
 bolder,a. 更粗的；更醒目的
 bologna,n. 一种大腊肠
@@ -634,8 +631,8 @@ businesses,n. 生意；事情；业务
 busy,a. 忙碌的；热闹的；没空的
 but,prep. 除了
 buy,vt. 买；获得
-buy-in,n. 买进；补进（为了接管某公司买进其控制股权）
 buyers,n. 买主；买方
+buying,买气；买进
 buzz,n. 嗡嗡声；流言
 buzzword,n. 流行词
 by,prep. 被；经；由
@@ -679,10 +676,7 @@ capacity,n. 容量；能力；才能
 capital,n. 首都；大写字母；资本
 capture,n. 抓取；战利品；捕获之物
 car,n. 汽车；客车
-car-buying,买气；买进
 carbon,n. 碳；副本；复写纸
-carbon-absorbing,a. 吸引人的；非常有趣的
-carbon-carrying,运载
 card,n. 卡片；纸牌；节目单
 care,n. 小心；照料；忧虑
 career,n. 事业；生涯；成功
@@ -692,12 +686,13 @@ caregiver,n. 照料者；护理者
 cares,（等于Central Advisory Referral Ser…
 caring,a. 有同情心的；表示或感到关怀或关心的
 carry,n. 进位；射程；运载
+carrying,运载
 cars,n. 汽车；客车
 carving,n. 雕刻品；雕刻；雕刻术
 case,n. 情形；情况；箱
 cases,n. 情形；情况；箱
 casual,a. 偶然的；不经意的；便装的
-catch-all,分沫器；截液器
+catch,n. 捕捉；陷阱；捕捉之物
 catchwords,n. 口号；标语；口头禅
 categories,n. 种类；类项
 cause,n. 原因；目标
@@ -717,6 +712,7 @@ centers,n. 中心；中心点；中锋
 centre,n. 中心；中心点；中锋
 centrepiece,n. 中心装饰品
 centres,n. 中心；中心点；中锋
+centric,a. 中心的；中央的
 centuries,n. 世纪；百年
 century,n. 世纪；百年
 ceo,abbr. 首席执行官；执行总裁（chief executive offic…
@@ -740,6 +736,7 @@ chances,n. 机会；意外；可能性
 chandni,（专有名词）
 change,n. 变化；找回的零钱；找头
 changed,a. 变化的；改变的
+changer,变换器；转换器；转接开关
 changes,n. 变化；找回的零钱；找头
 changing,v. 交换；兑换；改变（change的ing形式）
 channels,n. 海峡；航道；频道
@@ -770,7 +767,6 @@ chest,n. 胸；胸部；衣柜
 chew,vt. 咀嚼；嚼碎
 chewing,[咀]嚼
 chicago,n. 芝加哥
-chicago-area,n. 区域；面积；范围
 chickens,n. 小鸡；鸡肉
 chief,n. 领袖；酋长；长官
 child,n. 孩子；产物；追随者
@@ -785,6 +781,7 @@ choose,vt. 选择；宁愿；欲
 chooses,vt. 选择；宁愿；欲
 choosing,v. 选择；决定（choose的ing形式）
 chose,vt. 选择；宁愿；欲
+chosen,vt. 选择；宁愿；欲
 christine,n. 克莉丝汀（女子名）
 christopher,n. 克里斯多夫（男子名）
 chronic,a. 慢性的；习惯性的
@@ -802,9 +799,6 @@ cities,n. 城市；市
 citing,n. 引用；引证；举例
 citizens,n. 市民；公民
 city,n. 城市；市
-city-by-city,n. 城市；市
-city-level,n. 水平；水准；平地
-city-produced,v. 创作；产生；制造（produce的过去式和过去分词）
 civil,a. 市民的；公民的；有礼貌的
 claim,n. 要求；要求权；断言
 claimed,n. 要求；要求权；断言
@@ -821,20 +815,17 @@ clean,a. 干净的；清白的；简洁的
 cleaner,n. 清洁工人；清洁剂；干洗商
 cleaning,n. 清洁；扫除；家畜的胞衣
 clear,a. 清楚的；明确的；澄清的
-clear-eyed,a. 视力良好的；眼睛明亮的；头脑清晰的
 cleared,a. 清楚的；明确的；澄清的
 clearer,澄清剂；透明剂；洗剂(牙)
 clearly,adv. 清楚地
 click,n. 咔哒声；啪嗒声
 clicked,n. 咔哒声；啪嗒声
 climate,n. 气候；社会趋势；气候区
-climate-friendly,a. 友好的；亲切的；互助的
 clinical,a. 临床的；门诊部的
 clinics,n. 诊所；临床教学
 clips,n. 修剪；夹子；回形针
 clock,n. 时钟；计时器；(袜子上的)绣花边花
 close,n. 结束；完结
-close-minded,思想保守的
 closed,a. 关闭的；限于少数人的
 closely,adv. 接近地
 closer,n. 关闭者；闭合器；关闭器
@@ -846,9 +837,7 @@ clothing,n. 衣服
 club,n. 俱乐部；木棍；球棒
 clubs,n. 俱乐部；木棍；球棒
 clumsy,a. 笨拙的；不雅观的；粗陋的
-co-author,n. 合著者
-co-founder,n. (学说、组织学的)共同创立者
-co-workers,n. 同事
+co,钴(27号元素)
 coal,n. 煤；木炭
 coalition,n. 结合体；结合；联合
 coastal,a. 海岸的；沿海的；沿岸的
@@ -905,7 +894,6 @@ commissioned,a. 受委任的；现役的；受任命的
 commitment,n. 委托；交押；承担义务
 common,a. 通常的；共同的；通俗的
 commonly,adv. 一般；普通；通常
-commonly-accepted,a. 公认的；一般承认的
 communal,a. 公有的；公社的
 communicate,vt. 显露；传达；感染
 communicates,vt. 显露；传达；感染
@@ -914,7 +902,6 @@ communication,n. 交流；交通；通讯
 communications,n. 交通设施；通讯系统
 communities,n. 社区；公众；共有
 community,n. 社区；公众；共有
-community-college,n. 学院；大学；学会
 commuters,n. 乘公共车辆上下班者；月季票乘客
 companies,n. 公司；友伴；交往
 company,n. 公司；友伴；交往
@@ -952,7 +939,6 @@ comprehension,n. 理解；包含
 comprehensive,a. 广泛的；有理解力的；综合的
 compromising,a. 妥协的；让步的
 computer,n. 电脑；电子计算机
-computer-savvy,v. 理解；领悟
 computers,n. 电脑；电子计算机
 conceal,vt. 隐藏；掩盖；隐瞒
 conceive,vt. 构思；认为
@@ -1017,7 +1003,6 @@ consulting,a. 商议的；咨询的；任专职顾问的
 consume,vt. 消耗；消费；消灭
 consumed,a. 充满的；对…著迷的
 consumer,n. 消费者
-consumer-generated,a. 生成的；发生的
 consumers,n. 消费者
 consuming,a. 消费的
 consumption,n. 消费；消费量；痨病
@@ -1025,7 +1010,6 @@ contact,n. 联系；交际；熟人
 containing,n. 包含
 content,n. 内容；满足；意义
 context,n. 上下文；背景；来龙去脉
-context-independent,n. 独立自主者；无党派者
 contextualizing,vt. 将(音素、单词等)置于上下文中研究…
 contingent,a. 或许发生的；附随的；偶然发生的
 continual,a. 持续不断的；继续的
@@ -1085,7 +1069,6 @@ correlated,a. 有相互关系的
 correlation,n. 相互关系；相关；关联
 corresponding,a. 相当的；一致的；通信的
 cost,n. 代价；价值；费用
-cost-effective,a. 有成本效益的；划算的；合算的（等于cost-efficient）
 costed,n. 代价；价值；费用
 costly,a. 昂贵的；奢华的；费用大的
 costs,n. 代价；价值；费用
@@ -1146,11 +1129,8 @@ critics,n. 批评家；鉴定家
 critique,n. 评论文章；评论
 crone,n. 干瘪老太婆；老母羊
 crop,n. 农作物；产量；平头
-crop-growing,a. 成长的
 crops,分批出现(疹)
 cross,n. 十字架；十字架形物件；交叉
-cross-government,n. 政府；内阁
-cross-sector,n. 扇形；部门；部分
 crowded,a. 拥挤的；塞满的
 crucial,a. 决定性的；重要的；严厉的
 crumbling,v. 破碎；崩溃（crumble的ing形式）
@@ -1168,7 +1148,6 @@ cumbersome,a. 笨重的；麻烦的；累赘的
 curated,n. 助理牧师
 curb,n. 抑制；勒马绳；边石
 cure,n. 治疗；治愈；治疗法
-cure-all,n. 万灵药
 curiosity,n. 好奇心；新奇的事物；珍品
 curious,a. 好奇的；求知的；古怪的
 curiously,adv. 好奇地
@@ -1200,7 +1179,6 @@ date,n. 日期；约会；枣椰树
 dating,记日期的
 david,n. 大卫；戴维（男子名）
 day,n. 天；日子；白天
-day-to-day,adv. 天天
 days,n. 一生；时期
 daytime,n. 白天；日间
 de,非对映体过量
@@ -1211,6 +1189,7 @@ deals,n. 交易；协定；数量
 dealt,n. 交易；协定；数量
 deaths,n. 死亡数
 debate,n. 辩论；讨论
+debated,n. 辩论；讨论
 debates,n. 辩论；讨论
 debt,n. 债务；罪过
 debut,n. 初次登台；开张
@@ -1223,7 +1202,6 @@ decide,v. 决定；判决
 decided,a. 确定的；坚决的
 decimation,n. 每十人杀一人；大批杀害
 decision,n. 决定；决心；决断
-decision-making,n. 决策
 decisions,n. 决定；决心；决断
 declared,a. 公告的；公然的
 declaring,n. 宣告行为；说明
@@ -1279,7 +1257,7 @@ demonstrating,vt. 示范；证明
 demotivated,v. 使失去动力
 denay,（专有名词）
 density,n. 密度
-denver-based,v. 立基于；以…为基础（base的过去式和过去分词）
+denver,n. 丹佛(美国城市)
 deny,v. 否认；拒绝
 denying,v. 否认；拒绝
 department,n. 部门；系；机关
@@ -1384,6 +1362,7 @@ disappointments,n. 失望
 disastrous,a. 损失惨重的；悲伤的
 discarded,vt. 丢弃；抛弃
 discerning,a. 有眼力的；敏锐的；有辨别能力的
+discipline,n. 训练；纪律
 disclose,vt. 揭露；透露
 disconcerting,vt. 使困惑；使仓皇失措；打乱(计划等)
 disconnected,a. 分离的；不连贯的
@@ -1499,7 +1478,6 @@ drop,n. 滴；微量；落下
 dropped,a. 抛踢球得分的
 dropping,n. 点滴；滴下；落下
 drought,n. 干旱；缺乏
-drought-resistant,a. 抗旱的
 drumbeat,n. 鼓声
 drunk,n. 饮料；酒
 dual,a. 双重的；双的
@@ -1518,13 +1496,11 @@ duty,n. 责任；关税；职务
 dwellings,n. 住处
 dynamic,a. 动态的；有活力的；有力的
 dynamics,n. 动力学
-e-mail,电子邮件
 each,a. 每个；每一
 eager,a. 热心的；渴望的；热望的
 eagerly,adv. 渴望；热衷于；热切
 earlier,a. 早的；初期的
 early,a. 早的；早熟的
-early-stage,n. 阶段；舞台；场所
 earn,vt. 赚得；获得；博得
 earned,a. 挣得的
 earning,vt. 赚得；获得；博得
@@ -1550,6 +1526,7 @@ ed,电子设备；密码设备；数据结束
 educated,a. 受过教育的；有教养的
 education,n. 教育；训练；教育学
 educational,a. 教育的；教育性的
+edun,（专有名词）
 effect,n. 结果；影响；效果
 effective,a. 有效的；有力的；实际的
 effectively,adv. 有效地；有力地；实际上
@@ -1592,7 +1569,6 @@ emergency,n. 紧急状况；紧急事件；紧急需要
 emerges,vi. 浮现；形成；出现
 emission,n. 发射；射出；发行
 emissions,n. 发射；射出；发行
-emissions-permit,n. 许可证；许可；执照
 emit,vt. 发出；放射；发表(意见等)
 emotion,n. 情绪；激动；强烈的情感
 emotional,a. 情绪的；情感的
@@ -1624,8 +1600,6 @@ encourages,vt. 鼓励；支持；激励
 encouraging,a. 鼓励的；促进的
 encyclopedias,n. 百科全书
 end,n. 结束；终点；目标
-end-of-quarter,n. 四分之一；一刻钟；季度
-end-of-semester,n. 学期
 endeavor,n. 努力；尽力
 endeavors,n. 努力；尽力
 ends,n. 结束；终点；目标
@@ -1633,7 +1607,6 @@ endurance,n. 忍耐；忍耐力；耐性
 enemies,n. 敌人；仇敌；敌军
 energised,vt. 供给…能量；使精力充沛（等于energize）
 energy,n. 精力；精神；活力
-energy-efficient,adj. 能效高的；高能效的
 enforce,vt. 强迫；执行；坚持
 enforcement,n. 执行；强制
 engage,vi. 答应；从事；交战
@@ -1691,6 +1664,7 @@ establish,vt. 建立；确立；制定
 established,a. (被)建立的；固定的；既定的
 establishing,vt. 建立；确立；制定
 estate,n. 不动产；(人生的)阶段；阶层
+esteem,n. 尊敬；尊重
 estimate,n. 估计；判断
 estimated,a. 估算的；估计的；预计的
 estimates,n. 估计；判断
@@ -1709,13 +1683,13 @@ event,n. 事件；结果；事情的进程
 events,n. 事件；结果；事情的进程
 eventually,adv. 最后；终于
 ever,adv. 曾经；究竟；永远
-ever-higher,上扬
 every,a. 每一；所有的
 everybody,pron. 每个人；人人
 everyone,pron. 每个人；人人
 everything,pron. 每件事物；所有事物
 everywhere,adv. 各处；到处
 evidence,n. 根据；证据；迹象
+evident,a. 显然的；明显的
 evolution,n. 进化；发展；进展
 evolve,vi. 进展；进化；展开
 evolved,n. 进化了的
@@ -1804,6 +1778,7 @@ extraneous,a. 外来的；非必要的；无关的
 extreme,n. 极端；末端
 extremely,adv. 极端地；非常地
 eye,n. 眼睛；视力；看
+eyed,a. 有眼的
 face,n. 脸；面容；正面
 facebook,n. 脸谱网
 faced,a. 有某种面孔或表情的
@@ -1819,8 +1794,6 @@ factoids,n. (仅因出现在出版物上而被信以为真的) 仿真陈述
 factor,n. 因素；因数；系数
 factors,n. 因素；因数；系数
 factory,n. 工厂；产生地；代理店
-factory-farmed,vt. 耕种（farm的过去式与过去分词形式）
-factory-style,n. 风格；时尚；文体
 facts,n. 事实；真实性；真相
 faculty,n. 才能；能力；全体教员
 fades,vi. 褪色；消失；凋谢
@@ -1842,14 +1815,13 @@ fame,n. 名望；名声；传说
 familiar,a. 熟悉的；常见的；亲密的
 families,n. 家庭；家人；族
 family,n. 家庭；家人；族
-family-owned,v. 拥有；承认（own的过去分词）
 famous,a. 出名的；极好的
 fantasies,n. 幻想；想象的产物
 fantasised,v. 梦想；幻想
 fantastic,a. 奇妙的；稀奇的；空想的
 far,a. 远的；久远的；遥远的
-far-sighted,a. 有远见的；远视的；慎重的
 farm,n. 农场；农田
+farmed,n. 农场；农田
 farmer,n. 农夫；农场主
 farmers,n. 农夫；农场主
 farming,n. 农业；耕作
@@ -1859,11 +1831,10 @@ farsighted,a. 能看到远处的；有先见之明的；远视的
 fascinated,a. 着迷的；被深深吸引的
 fascination,n. 令人着迷的事物；入迷；魅力
 fashion,n. 流行；风尚；时样
-fashion-related,a. 讲述的；叙述的；有关系的
+fashioned,a. …式的
 fast,a. 快速的；紧的
-fast-moving,adj. 移动迅速的；情节紧凑动人的
 faster,加快
-fastest-growing,a. 成长的
+fastest,a. 快速的；紧的
 fatal,a. 致命的；重大的；命运注定的
 fate,n. 命运；运气
 fates,n. [希神]命运三女神
@@ -1909,7 +1880,7 @@ fiction,n. 小说；虚构故事
 field,n. 领域；田地；场地
 fields,n. 域；字段；场设置（field复数形式）
 fierce,a. 凶猛的；猛烈的；热烈的
-fifa-standard,n. 标准；规格；旗
+fifa,abbr. 国际足球联盟（Federation Internationale…
 fifth,num. 第五；五分之一
 fight,n. 打架；争吵；斗志
 fighting,a. 战斗的；容易引起争斗的；适于格斗的
@@ -1929,7 +1900,6 @@ finance,n. 财政；财务
 financed,n. 财政；财务
 finances,n. 资金；经费
 financial,a. 财政的；金融的
-financial-planning,n. 计划的制订；策划；设计
 financially,adv. 金融上；财政上
 find,vt. 发现；感到；找到
 finding,n. 发现；发现物；决定
@@ -1943,24 +1913,16 @@ finish,n. 完成；结束；末道漆
 finished,a. 完成的；完结的；精巧的
 finite,a. 有限的；有穷的；限定的
 fire,n. 火；炉火；电炉
-fire-and-hire,n. 租金；租用；雇用
-fire-fighting,adj. 消防的
-fire-prone,a. 俯伏的；面向下的；有...倾向的
 fires,n. 火灾；点火；火力
 firm,n. 公司；商号
 firms,n. 公司；商号
 first,adv. 首先；第一；优先
-first-quarter,n. 四分之一；一刻钟；季度
-first-timer,n. 初次做某事者
-first-timers,n. 初次做某事者
-first-year,第一年的
 fit,n. 适宜；合身；发作
 fitness,n. 适合；合宜；合理
 fits,n. 适宜；合身；发作
 fitsmallbusiness,FitSmallBusiness（美国商业资讯网站）
 fitter,n. 裁剪和试样的服装工人/裁缝；装配工；钳工
 five,num. 五；五个
-five-minute,n. 分；分钟；片刻
 fix,vt. 使固定；修理；准备
 fixable,a. 可固定的
 fixture,n. 固定(状态)；固定物；设备
@@ -1995,7 +1957,6 @@ followers,n. 从者；属下；追补者
 following,n. 下列各项；部下；追随者
 fond,a. 喜欢的；宠爱的；温柔的
 food,n. 食物；养料
-food-testing,n. 测试
 foods,n. 食品
 foolish,a. 愚蠢的；傻的
 foot,n. 脚；步调；英尺
@@ -2040,9 +2001,7 @@ four,num. 四；四个
 fox,n. 狐狸；狡猾的人
 frame,n. 框；结构；体格
 francisco,n. 弗朗西斯科（男子名；等于Francis）
-francisco-based,v. 立基于；以…为基础（base的过去式和过去分词）
 free,a. 自由的；享受政治权力的；允许的
-free-range,a. 在农场自由放养的（鸡）
 freed,a. 释放的
 freedom,n. 自由；坦率；特权
 freely,adv. 自由地；随意地；无拘束地
@@ -2068,7 +2027,6 @@ fuels,n. 燃料；供给燃料（fuel 复数形式）
 fulfilled,vt. 实践；履行；实行
 fulfillment,n. 履行；结束；完成
 full,n. 全部；完整
-full-time,a. 全部时间的；专任的
 fully,adv. 十分地；完全地；充分地
 fun,n. 乐趣；玩笑；娱乐
 functions,n. 官能；职务；功能
@@ -2123,7 +2081,6 @@ generosity,n. 慷慨；宽大
 generous,a. 慷慨的；有雅量的；大量的
 generously,adv. 宽大地；慷慨地；丰盛地
 genetic,a. 创始的；遗传的；起源的
-genetic-resources,n. 资源；物力（resource的复数）
 genomes,基因组
 gentle,a. 温和的；文雅的
 gentlemen,pl. 出身高贵的人；有教养的人；绅士
@@ -2135,7 +2092,6 @@ gerontologist,老年病学家
 gerontologists,老年病学家
 gestures,n. 手势；姿态
 get,vt. 得到；获得；变成
-get-together,n. 联欢会
 gets,vt. 得到；获得；变成
 getting,获得；变得（get 的现在分词）
 giants,n. 巨人；大力士；巨大怪物
@@ -2144,6 +2100,7 @@ gig,n. 旋转物；轻便双轮马车；赛艇
 giuricin,（专有名词）
 give,n. 弹性；适应性
 given,n. 弹性；适应性
+giver,n. 给予者；赠予人
 gives,n. 弹性；适应性
 giving,n. 礼物；给予物
 glass,n. 玻璃；玻璃杯；透镜
@@ -2154,6 +2111,7 @@ globalized,vt. 使全球化
 glory,n. 光荣；荣耀；荣誉
 glue,n. 胶；粘性物
 gmail,n. 谷歌邮箱
+gmo,n. [医][=garamycin ointment]庆大霉素油膏
 go,vi. 去；走；达到
 goal,n. 目标；终点；得分
 goals,n. 目标；目的；进球
@@ -2206,7 +2164,7 @@ greenwash,漂绿
 greg,n. 格雷格（男子名；等于Gregory）
 grenier,n. (Grenier)人名；(西)格雷涅尔；(法)格勒尼耶
 grey,n. 灰色
-grid-based,v. 立基于；以…为基础（base的过去式和过去分词）
+grid,n. 格子；栅格
 grocery,n. 食品杂货店；食品杂货业
 ground,n. 磨；碾；苦差
 group,n. 团体；组；团
@@ -2216,7 +2174,6 @@ grow,vt. 种植；使长满
 growers,雏
 growing,a. 成长的
 grown,vt. 种植；使长满
-grown-ups,n. 成人
 growth,n. 生长；栽培；增长
 guarantee,n. 担保；抵押品；保证书
 guard,n. 守卫者；警戒；护卫队
@@ -2228,7 +2185,6 @@ guide,n. 引导者；导游；指南
 guideline,n. 指导路线；方针；指标
 guides,n. 辅助线；参考线；指南
 guilt,n. 罪行；内疚
-guilt-prone,a. 俯伏的；面向下的；有...倾向的
 guilty,a. 犯罪的；有过失的；自觉有错的
 gum,n. 树胶；橡皮；橡皮糖
 gurner,格纳
@@ -2286,6 +2242,7 @@ hate,n. 憎恨；恨；厌恶
 have,vt. 有；怀有；拿
 haven't,=have not
 having,n. 财产；所有物
+hazard,n. 冒险；危险；机会
 he,pron. 他
 head,n. 头；头脑；领袖
 headlines,n. 大标题；新闻摘要
@@ -2299,8 +2256,8 @@ hear,vt. 听到；倾听；听说
 heard,vt. 听到；倾听；听说
 hearing,n. 听；听觉；听讯
 heart,n. 心；心脏；中心
+hearted,a. 有...心(肠)的
 heat,n. 热；热度；体温
-heat-stricken,a. 受打击的；负了伤的；衰老的
 heating,n. 加热；供热；暖气设备
 heatstroke,n. 中暑
 heavily,adv. 很重地；严重地；难以忍受地
@@ -2310,9 +2267,6 @@ height,n. 高度；海拔；高地
 held,n. 把握；把持力；柄
 hello,interj. 喂；嘿
 help,n. 帮忙；帮助者；补救办法
-help-giver,n. 给予者；赠予人
-help-seekers,n. 搜索者；探求者( seeker的复数形式 )
-help-seeking,求助
 helped,n. 帮忙；帮助者；补救办法
 helping,n. 帮助；协助；一份
 helpless,a. 无助的；无能为力的；无依无靠的
@@ -2331,18 +2285,8 @@ hid,n. 兽皮；迹象；躲藏处
 hidden,n. 兽皮；迹象；躲藏处
 hide,n. 兽皮；迹象；躲藏处
 high,n. 高度；高处
-high-density,高密度
-high-profile,a. 高姿态的；高调的；备受瞩目的
-high-quality,高级的
-high-school,n. 学校；鱼群；门派
-high-skill,n. 技术；技巧；技能
-high-skilled,a. 熟练的
-high-speed,a. 高速的
-high-value,高位值
 higher,上扬
-higher-quality,n. 品质；特性；才能
 highest,最高
-highest-earning,n. 收入（earn的现在分词）
 highlight,n. 加亮区；精彩场面
 highlighted,a. 突出的
 highlighting,突出性；醒目性；高明亮部分
@@ -2355,7 +2299,9 @@ him,pron. 他
 himself,pron. 他自己；他亲自
 hinder,a. 后面的
 hindered,a. 后面的
+hire,n. 租金；租用；雇用
 hired,n. 租金；租用；雇用
+hires,n. 租金；租用；雇用
 hiring,租用；雇用
 his,pron. 他的
 historical,a. 历史的；史实的；历史上的
@@ -2373,7 +2319,6 @@ holes,n. 孔；洞；穴
 holiday,n. 假日；假期；节日
 holistic,完整的；整体的
 home,n. 家；避难所；故乡
-home-grown,a. 在当地出产的；本国产的
 homebuying,购房
 homeowners,n. 私房屋主；自己拥有住房者
 homeownership,n. 私房屋主；自己拥有住房者 (homeowner的变形)
@@ -2390,7 +2335,6 @@ hoping,v. 希望（hope的ing形式）
 horizons,n. 地平线；眼界；(天)视地平
 horticultural,a. 园艺的
 hospital,n. 医院
-hospital-centric,a. 中心的；中央的
 hospitality,n. 款待；亲切；殷勤
 hospitals,n. 医院
 hostile,a. 敌人的；怀敌意的；敌对的
@@ -2409,7 +2353,6 @@ hsee,（专有名词）
 hub,n. 毂；木片；中心
 huge,a. 极大的；巨大的；无限的
 human,n. 人；人类
-human-made,a. 人工制成的；成功的；创造的
 humans,n. 人；人类
 humble,a. 低下的；谦逊的；粗陋的
 humidity,n. 湿气；潮湿；湿度
@@ -2502,7 +2445,6 @@ improvisation,n. 即兴而作；即席演奏；即席作品
 impulses,n. 冲动；驱使；刺激
 impulsive,a. 冲动的；受感情驱使的；任性的
 in,prep. 在...期间；在...之内；处于...之中
-in-person,a. 亲自的；亲身的；本人的
 inaccessible,a. 难得到的；难接近的；难达成的
 inaction,n. 不活动；无为；怠惰
 inadequate,a. 不充分的；不适当的
@@ -2510,7 +2452,6 @@ inadequately,adv. 不适当地；不够好地
 inadvertently,adv. 漫不经心地；疏忽地；非故意地
 inboxes,收件箱
 incentive,n. 动机
-incentive-based,v. 立基于；以…为基础（base的过去式和过去分词）
 incentives,n. 动机
 inches,n. 英寸；身高；小岛
 inclined,a. 倾向于...的；想要...的；可能的
@@ -2561,11 +2502,12 @@ infants,n. 婴儿；儿童；初学者
 infer,vt. 推论出；推断
 inferiority,n. 自卑；次等
 inferred,vt. 推论出；推断
-inflation-adjusted,经通胀调整的
+inflation,n. 胀大；夸张；通货膨胀
 influence,n. 影响力；权力；势力
 influences,n. 影响力；权力；势力
 informal,a. 非正式的；不拘礼的；通俗的
 information,n. 消息；知识；通知
+informed,a. 见多识广的
 infrastructure,n. 基础结构；基础设施
 infrequent,a. 稀少的；珍贵的；罕见的
 inhabit,vt. 居住于；占据；栖息
@@ -2614,7 +2556,6 @@ instructing,vt. 教；教育；命令
 instruction,n. 指令；教导；命令
 instructive,a. 有益的；增进知识的
 instructor,n. 教员；讲师
-instructor-student,n. 学生；研究者；学者
 insufficient,a. 不够的；不能胜任的；不充足的
 insulated,a. 隔热的；绝缘的
 insulation,n. 绝缘；隔离；孤立
@@ -2710,6 +2651,7 @@ isolated,a. 孤立的；孤零零的
 issue,n. 发行；问题；后果
 issued,n. 发行；问题；后果
 issues,n. 发行；问题；后果
+issuing,n. 发行；问题；后果
 it,pron. 它
 it'll,it will的缩写；it shall的缩写
 italian,n. 意大利人；意大利语
@@ -2791,14 +2733,12 @@ kill,n. 杀；杀戮；小河
 killed,a. 被杀死的；被屠宰的；镇静的
 killer,n. (非正式)杀人者；屠杀者；猛兽
 kind,n. 种类；性质；方式
-kind-hearted,a. 好心肠的；好心的；善心的
 kinds,n. 种类；性质；方式
 kinesiology,n. 运动机能学
 klohs,（专有名词）
 km,千米；公里
 knew,v. 知道；了解；认识
 know,v. 知道；了解；认识
-know-it-all,n. 自以为博学的人
 knowing,a. 博学的；聪颖的；精明的
 knowledge,n. 知识；学问；认识
 known,v. 知道；了解；认识
@@ -2807,14 +2747,12 @@ kotharkar,（专有名词）
 koziatek,（专有名词）
 labeled,a. 有标签的；示踪的
 labor,n. 劳动；努力；工作
-labor-intensive,a. 劳动密集型的
 laboratory,n. 实验室；研究室；化工厂
 laborers,n. 体力劳动者；辅助工
 labour,n. 劳动；努力；工作
 lack,n. 缺乏；无；不足
 lagging,n. 迟钝；落后；防护套
 laid,vt. 放置；产；铺设
-laid-off,a. 被解雇的
 laleh,（专有名词）
 land,n. 陆地；地面；地界
 landowners,n. 地主
@@ -2831,7 +2769,6 @@ larry,n. 拉里（男子名）
 last,a. 最后的；末尾的；最近的
 lasting,a. 永久的；永恒的；持久的
 late,a. 迟的；晚的；已故的
-late-morning,n. 早晨；早上；初期
 later,adv. 以后；随后
 latest,a. 最近的
 latter,a. 后者的；较后的；近来的
@@ -2847,7 +2784,6 @@ lawns,n. 草地；草坪；上等细麻布
 laws,n. 法律；法则；定律
 lawyer,n. 律师
 lay,n. 谎言；假象；位置
-lay-off,n. 解雇；(临时)解雇期；关闭
 lazy,a. 懒惰的；怠惰的；缓慢的
 lead,n. 铅；铅条；领导
 leader,n. 领导者；社论；指挥
@@ -2899,7 +2835,6 @@ licensing,v. 许可；批准（license的ing形式）
 lie,n. 谎言；假象；位置
 lies,n. 谎言；假象；位置
 life,n. 生活；生命；人生
-life-changer,变换器；转换器；转接开关
 lifestyle,n. 生活方式
 lifestyles,生活方式
 lifetime,n. 一生；终生
@@ -2909,7 +2844,6 @@ light,n. 光；光亮；灯
 lighten,vt. 照亮；点亮；减轻
 lights,n. 光；光亮；灯
 like,a. 相似的；同样的
-like-minded,a. 同心的；同志的；志趣相投的
 likely,a. 有可能的；合适的；前途有望的
 likes,n. 爱好的事物
 limit,n. 界限；边界；限度
@@ -2922,6 +2856,7 @@ link,n. 环；连结物；链接
 linked,a. 连接的；显示连环遗传的；联合的
 linking,连接；链接
 links,n. 高尔夫球场
+lipped,a. 有嘴的；长着嘴唇的
 list,n. 目录；名单；明细表
 listen,vi. 听；倾听；听从
 listening,n. 听；监听
@@ -2932,7 +2867,6 @@ literally,adv. 逐字地；按照字面上地；不夸张地
 literary,a. 文学的；文艺的；精通文学的
 literature,n. 文学；文艺；著作
 little,n. 一点点；少许；一会儿
-little-known,a. 鲜为人知的
 liu,n. 线路接口单元；刘（中国姓氏）
 live,a. 活的；生动的；精力充沛的
 lived,a. 有生命的
@@ -2952,10 +2886,7 @@ london,n. 伦敦
 loneliness,n. 寂寞；孤独；清静
 lonely,a. 孤单的；孤寂的；荒凉的
 long,a. 长的；长久的；冗长的
-long-established,a. (被)建立的；固定的；既定的
-long-term,a. 长期的
 longer,adv. 比较久
-longer-term,n. 术语；专有名词；期限
 look,n. 一看；神色；样子
 looked,n. 一看；神色；样子
 looking,a. 有…相貌的；有…样子的
@@ -2976,12 +2907,7 @@ love,n. 爱；恋爱；爱情
 lovers,n. 爱人；爱好者
 loves,n. 爱；恋爱；爱情
 low,n. 低点；低价；低
-low-carbon,低碳的
-low-emission,低排放
-low-sympathy,n. 同情；赞同；怜悯
-low-wage,低工资
 lower,a. 低的；下级的；下层的
-lower-hazard,n. 冒险；危险；机会
 lowering,a. 皱眉的；愠怒的；昏暗的
 lowers,工资（海洋法用语）
 lowest,最低的；基层的
@@ -2993,12 +2919,12 @@ lumber,n. 木材；破旧家俱；废物
 lunch,n. 午餐
 luring,n. 饵；诱惑
 made,vt. 制造；安排；创造
-made-in-mexico,n. 墨西哥
 madrid,n. 马德里
 magic,n. 魔术；魔法
 magically,adv. 用魔法地；如魔法般地
 magnet,n. 磁铁；有吸引力之人；有吸引力之物
 magnifying,放大的
+mail,n. 邮件；邮政；邮递
 main,n. 主要部分；干线；体力
 mainly,adv. 主要地；大抵
 maintain,vt. 维持；维修；保持
@@ -3048,7 +2974,7 @@ markings,n. 成交量和价格记录
 marriage,n. 婚姻；结婚；婚礼
 married,a. 已婚的；婚姻的
 martha,n. 马大(<<圣经>>故事人物)
-martinez-almeida,n. (Almeida)人名；(法、西、葡、英)阿尔梅达
+martinez,n. 马丁内斯（男子名）
 mary,n. 玛丽（女子名）
 maryland,n. 马里兰州
 mass,n. 块；大多数；质量
@@ -3081,7 +3007,6 @@ mcdonalds,n. 麦当劳（快餐品牌名）
 md,医学博士；总经理；常务董事
 me,pron. 我
 meal,n. 一餐；膳食；粗粉
-meal-card,n. 卡片；纸牌；节目单
 mealtimes,n. 进餐时间
 mean,a. 低劣的；卑贱的；简陋的
 meaning,n. 意义；含义；目的
@@ -3120,7 +3045,6 @@ memorizing,n. 记忆；熟记
 memory,n. 记忆；记忆力；回忆
 menke,门克
 mental,a. 心智的；精神病的；心理的
-mental-health,n. 健康；卫生；蓬勃
 mentally,adv. 心理上；精神上；智力上
 mention,n. 提到；言及；陈述
 mentioned,n. 提到；言及；陈述
@@ -3144,10 +3068,7 @@ michelsen,米切尔森
 michigan,n. 密歇根州
 microsoft,n. (美国)微软公司
 mid,a. 中间的；中央的；中部的
-mid-skill,n. 技术；技巧；技能
-middle-aged,a. 中年的
-middle-income,a. 中等收入的
-middle-skill,n. 技术；技巧；技能
+middle,n. 中央；中间；腰部
 middlemen,n. 中间人
 might,n. 力量；权力
 migrating,v. 迁徙；迁移；移居（migrate的ing形式）
@@ -3161,7 +3082,8 @@ million,n. 百万；无数
 millionaires,n. 百万富翁；大富豪
 mimic,a. 模仿的；摹拟的
 mind,n. 思想；愿望；智力
-mind-boggling,a. 令人难以置信的
+minded,a. 有意的；有心的；具有意志的
+mindedness,n. 心思；思想
 minds,n. 思想；愿望；智力
 mindset,n. 心态；倾向；习惯
 ming,n. 明朝
@@ -3223,7 +3145,6 @@ most,n. 最多；最大
 mostly,adv. 大概；大部分；主要
 motel,n. 汽车旅馆
 mother,n. 母亲；修女院长
-mother-child,n. 孩子；产物；追随者
 mothers,n. 母亲；修女院长
 motions,n. 移动；手势；动作
 motivated,a. 有动机的；目的明确的
@@ -3240,7 +3161,6 @@ moving,a. 动人的；令人感动的；鼓动的
 mowing,n. 刈草；一次收割量；牧草地
 mr,先生
 much,n. 大量；许多；重要的事
-much-argued,争论
 multidimensional,a. 多面的；多维的
 multiple,n. 倍数；并联
 multiply,v. 繁殖；乘；增加
@@ -3295,7 +3215,6 @@ neighborhoods,n. 附近；邻近
 neither,adv. 皆不；两个都不
 nest,n. 巢；窝；休息所
 net,n. 网；网状物；罗网
-net-zero,n. 零；零点；零度
 netball,n. 无挡板蓝球
 network,n. 网络；广播网；网状物
 networking,连网；建网
@@ -3317,10 +3236,8 @@ nina,n. 尼娜（女名）
 nine,num. 九；九个
 nines,n. 祖母；外祖母
 no,n. 不；拒绝；否决票
-no-tipping,n. 倾卸台
 nobody,n. 小人物；无名小卒
-non-gmo,n. [医][=garamycin ointment]庆大霉素油膏
-non-living,非生命的
+non,adv. 非；不
 nonagricultural,a. 非农业的
 none,adv. 一点也不；毫不
 nonfiction,n. (非小说的)写实文学
@@ -3365,6 +3282,7 @@ obeyed,vt. 服从；遵从；顺从
 objective,n. 目的；目标；宗旨
 objectively,adv. 客观地
 observation,n. 观察；注意；观测
+observations,n. 观察；注意；观测
 observe,vt. 觉察到；遵守；注意到
 observed,a. 观测的；观察的
 observers,n. 观察者；遵守者；观察员
@@ -3388,8 +3306,6 @@ ocean,n. 海洋；广阔；许多
 odd,a. 奇数的；古怪的；剩余的
 of,prep. 的；属于
 off,a. 关着的；不再生效的；处于...境况的
-off-campus,adv. &adj. 在校园外（的）
-off-limits,a. 禁止进入的；禁止使用的
 offer,n. 给予(物)；出价；提议
 offered,v. 提供；提议；奉献（offer过去时态）
 offering,n. 提供；奉献物；牲礼
@@ -3400,26 +3316,20 @@ offices,n. 办公室；部；公职
 official,n. 官员；公务员；职员
 officials,n. 官员；公务员；职员
 offloading,v. 卸下；卸货
-oft-debated,常被争论的
+oft,adv. 常常；再三
 often,adv. 时常；常常
 ohio,n. 俄亥俄
 oil,n. 油；石油；油画颜料
 oils,n. 油画颜料
 ok,a. 好；不错；可以
 old,n. 以前；往昔
-old-fashioned,a. 旧式的；过时的；保守的
 older,a. 年长的；较旧的
-older-generation,n. 一代；一世；产生
 olivia,n. 奥利维亚（女子名）
 olympiad,n. (四年一次的)奥林匹克世界运动大会；四年周期
 olympic,a. 奥林匹亚的；奥林匹斯山的；强有力的
 on,prep. 在...之上
-on-demand,请求式
 once,adv. 一次；曾经；一旦
 one,n. 一(个)
-one-hour,n. 小时；钟头；时间
-one-size-fits-all,通用的；一体适用的
-one-third,三分之一；三分一；一分之三
 ones,n. 刻录软件
 oneself,pron. 自己；亲自
 onetime,a. 从前的；一度的
@@ -3446,7 +3356,6 @@ opposite,a. 相对的；相反的；对面的
 opposition,n. 反对；敌对；相反
 oppressive,a. 压制性的；压迫的；沉重的
 opt,vi. 选择
-opt-out,n. 自愿退出；不参加
 optimistic,a. 乐观的；乐观主义的；乐天的
 opting,vi. 选择
 option,n. 选择权；挑选；选项
@@ -3516,6 +3425,7 @@ overwhelms,vt. 淹没；受打击；制服
 owe,vt. 亏欠；负...债；归功于
 owing,a. 未付的；亏欠的；受惠的
 own,n. 自己的
+owned,n. 自己的
 owner,n. 拥有者；物主；所有人
 owners,n. 拥有者；物主；所有人
 ownership,n. 所有权；物主身份
@@ -3572,7 +3482,7 @@ passing,n. 通过；逝去；死
 passion,n. 激情；酷爱；热爱
 passionately,adv. 热情地；激昂地
 past,n. 过去；昔时；往事
-pasture-raised,a. 凸起的；浮雕的；发酵的
+pasture,n. 牧场；草地；牧草
 patch,n. 片；补缀；碎片
 patchwork,n. 拼缝物；拼凑物
 path,n. 路径；小路；道路
@@ -3619,6 +3529,7 @@ period,n. 时期；节段；节
 periods,n. 时期；节段；节
 permanent,a. 永久的；不变的；固定的
 permission,n. 许可；允许
+permit,n. 许可证；许可；执照
 perpetuated,vt. 使永存；使不朽；保持
 persistence,n. 固执；坚持不懈；持续(性)
 persists,vi. 坚持；固执；持续
@@ -3662,6 +3573,7 @@ pipes,n. 管线；管道；管子（pipe复数形式）
 pitching,n. 护坡(石)；铺地石；俯仰
 pizza,n. 比萨饼
 place,n. 地方；地点；位置
+placement,n. 放置；布置；工作安排
 places,n. 地方；地点；位置
 placing,n. 出盘；出售
 plan,n. 计划；方案；策略
@@ -3672,7 +3584,6 @@ planners,n. 计划者；设计者；安排者
 planning,n. 计划的制订；策划；设计
 plans,n. 计划；方案；策略
 plant,n. 植物；作物；工厂
-plant-based,v. 立基于；以…为基础（base的过去式和过去分词）
 planted,vbl. 种植
 planting,n. 种植；栽培；播种
 plants,n. 植物；作物；工厂
@@ -3704,7 +3615,6 @@ pointing,指向；指点
 points,n. 转轨器；道岔
 policies,n. 政策；方针；策略
 policy,n. 政策；方针；策略
-policy-making,n. 政策制定；决策
 polished,a. 擦亮的；优雅的；精良的
 polite,a. 有礼貌的；文雅的；客气的
 political,a. 政治的；政治上的；政党的
@@ -3716,7 +3626,6 @@ pollution,n. 污染；玷污
 ponds,n. 池塘
 poor,a. 贫穷的；贫乏的；不幸的
 poorly,adv. 贫穷地；不充分地；贫乏地
-poorly-educated,a. 受过教育的；有教养的
 popular,a. 通俗的；流行的；受欢迎的
 popularity,n. 名声；受大众欢迎；流行
 population,n. 人口；人口数
@@ -3738,6 +3647,7 @@ potentially,adv. 可能地；潜在地
 pound,n. 磅；英镑；重击
 pouring,浇铸；浇注
 power,n. 力；体力；力量
+powered,a. 有动力装置的；用动力推动的；产生动力的
 powerful,a. 有力的；有权力的；强大的
 powers,n. 力；体力；力量
 practical,a. 实际的；现实的；实用性的
@@ -3810,7 +3720,6 @@ privileges,n. 特权；特别恩典；基本权利
 probably,adv. 大概；或许
 probiotics,n. 前生论
 problem,n. 问题；难题
-problem-solving,问题解决
 problematic,a. 成问题的；未定的；疑难的
 problems,n. 问题；难题
 procedures,n. 程序；过程；手续
@@ -3836,6 +3745,7 @@ professional,n. 专业人才
 professions,n. 职业；表白；声明
 professor,n. 教授
 professors,n. 教授
+profile,n. 侧面；轮廓；传略
 profit,n. 利润；赢利；利益
 profitable,a. 有利润的；有利益的；赚钱的
 profits,n. 利润；赢利；利益
@@ -3849,7 +3759,6 @@ progressing,n. 进步；发展；前进
 progressive,n. 改革论者；进步论者
 prohibiting,vt. 禁止；阻止
 project,n. 计划；设计；事业
-project-marketing,n. 行销；买卖
 projects,n. 计划；设计；事业
 proliferating,增生的
 prominent,a. 卓越的；显著的；突出的
@@ -3866,6 +3775,7 @@ promotions,n. 促销；升职（promotion复数）
 prompted,n. 激励；提示；提醒物
 prompting,n. 刺激；激励；提示
 promulgating,vt. 发布；公布；发表
+prone,a. 俯伏的；面向下的；有...倾向的
 proof,n. 证据；证明；试验
 proper,a. 适当的；固有的；高尚的
 properly,adv. 适当地；相当地
@@ -3905,7 +3815,7 @@ public,n. 公众；民众
 publicly,adv. 公然地；以公众名义
 published,a. 已发布的
 publishing,n. 出版；刊印；发行
-puffed-out,a. 外面的；熄灭的；结束的
+puffed,a. 疏松的
 pull,vt. 拉；拖；拔
 pulling,拉单晶的
 punctuality,n. 严守时间；正确
@@ -3926,13 +3836,13 @@ pushback,n. 飞机推迟起飞
 pushes,n. 推；推动；奋斗
 pushing,a. 有精力的；富有进取心的；莽撞的
 put,vt. 放；摆；安置
-put-down,n. 贬低的言语(或行动)
 puts,vt. 放；摆；安置
 putting,n. 投掷；（高尔夫球）打球入洞
 puzzling,a. 使迷惑的；把人难住的
 qualified,a. 有资格的
 qualities,n. 品质；特性；才能
 quality,n. 品质；特性；才能
+quarter,n. 四分之一；一刻钟；季度
 quarters,n. 寓所；营房；住处
 queensland,昆士兰
 quest,n. 探索；寻求；调查
@@ -3983,7 +3893,7 @@ ratings,n. 等级；额定功率；责骂
 rational,a. 理性的；合理的
 rationale,n. 基本原理
 rats,int. [俚]胡说；瞎扯
-re-priced,a. 有定价的；定价的
+re,prep. 关于
 reach,n. 伸出；延伸；区域
 reached,n. 伸出；延伸；区域
 react,vi. 起反应；起作用；反攻
@@ -3998,7 +3908,6 @@ readjust,vt. 重新调整；再调整
 reads,v. 读；阅读；理解
 ready,n. 预备好的状态；现款
 real,a. 真的；真实的；实际的
-real-world,存在于现实世界的；真实的
 realise,vt. 实现；认识到；体会到
 realistic,a. 现实的；逼真的；现实主义的
 reality,n. 实在；事实；实体
@@ -4033,8 +3942,6 @@ recommend,vt. 推荐；介绍；劝告
 recommends,vt. 推荐；介绍；劝告
 reconstructing,vt. 重建；改造
 record,n. 记录；履历；档案
-record-breaking,a. 打破记录的
-record-high,n. 高度；高处
 recording,a. 记录的；记录用的
 records,n. 记录；履历；档案
 recoup,vt. 偿还；赔偿；补偿
@@ -4173,6 +4080,7 @@ requirements,n. 需求；必要条件；要求
 requires,vt. 需要；命令；要求
 requiring,vt. 需要；命令；要求
 research,n. 研究；调查；考察
+researched,n. 研究；调查；考察
 researcher,n. 研究人员
 researchers,n. 研究人员
 resembled,vt. 相似；类似
@@ -4185,6 +4093,7 @@ residential,a. 住宅的；与居住有关的
 residents,n. 居民；常驻程序；居住者
 resist,v. 抵抗；耐得住；抵制
 resistance,n. 抵抗力；反抗；耐力
+resistant,n. 抵抗者；反抗者
 reskilled,经过再培训的
 reskilling,再培训；技能再造
 resolution,n. 解析；决心；坚定
@@ -4226,7 +4135,6 @@ retire,n. 隐居
 retired,a. 隐退的；退休的；退役的
 retirees,n. 退休人员；退休者
 retirement,n. 退休；隐居；撤退
-retirement-age,退休年龄
 retiring,a. 行将隐退的；行将退休的；就寝的
 retrain,vt. 重新训练；再训练
 retraining,n. 再训练
@@ -4272,9 +4180,6 @@ risen,n. 上升；增加；上涨
 rises,v. 价格上涨；（日、月、星）升起；起身（rise第三人称单数）
 rising,n. 上升；造反；叛乱
 risk,n. 冒险；危险；保险额
-risk-sensitive,a. 敏感的；易感的；灵敏的
-risk-takers,n. 冒险者；喜欢冒险的人
-risk-taking,承担风险
 risking,n. 冒险；危险；保险额
 risks,n. 风险；危险（risk复数）
 risky,a. 危险的
@@ -4314,11 +4219,9 @@ royal,n. 王室；皇族
 ruin,n. 毁灭；推翻；废墟
 ruining,路因碱
 rule,n. 规则；统治；控制
-rule-following,n. 下列各项；部下；追随者
 rules,n. 规则；统治；控制
 rumor,n. 谣言；传闻
 run,n. 跑；赛跑；奔跑
-run-up,n. 前夕；酝酿期；准备活动
 runners,n. 跑步者；赛跑者；送信人
 runs,n. 跑；赛跑；奔跑
 rural,a. 乡下的；田园的；乡村风味的
@@ -4355,6 +4258,7 @@ saturday,n. 星期六
 save,n. 救球
 saved,a. 已保存的；获救的
 savings,n. 储蓄；存款
+savvy,v. 理解；领悟
 saw,vt. 看见；查看；参观
 say,vt. 说；讲；念
 saying,n. 叙述；话；说
@@ -4373,7 +4277,6 @@ scheduling,n. 行程安排；时间表制定
 scheme,n. 方案；计划；组合
 scholarship,n. 学问；学术成就；奖学金
 school,n. 学校；鱼群；门派
-school-affiliated,a. 有关连的；附属的
 schooling,n. 学校教育；学费
 schools,n. 学校；鱼群；门派
 schwarzenegger,n. 施瓦辛格（姓氏名）
@@ -4393,18 +4296,19 @@ screens,n. 幕；银幕；屏风
 script,n. 手迹；手稿；正本
 scrutiny,n. 细看；仔细检查；监视
 seamless,a. 无缝的；无缝合线的
+searching,a. 搜索的；遍寻的；彻底的
 seaside,a. 海边的；海滨的
 season,n. 季节；时节；当令期
 seasonal,a. 季节的；依照季节的；周期性的
 seat,n. 座；座位；位子
 seattle,n. 西雅图
 second,n. 秒；瞬间；第二名
-second-largest,a. 多量的；最大的（large的最高级）
 secondary,a. 中级的；中等的；次要的
 seconds,n. 次级品；二等品
 secret,n. 秘密；机密；秘诀
 secrets,n. 秘密；机密；秘诀
 section,n. 区段；部分；区域
+sector,n. 扇形；部门；部分
 sectors,n. 扇形；部门；部分
 secure,a. 无虑的；安心的；安全的
 securing,a. 固定住的；作为固定用的
@@ -4415,6 +4319,7 @@ seedlings,n. 秧苗；树苗
 seeds,n. 种子；籽；萌芽
 seeing,n. 视觉；视力；观看
 seek,vt. 寻求；寻找；探索
+seekers,n. 搜索者；探求者
 seeking,查找；寻找；故障检查
 seem,vi. 象是；似乎
 seems,vi. 象是；似乎
@@ -4430,25 +4335,7 @@ selected,a. 挑选出来的；精选的
 selecting,选择
 selective,a. 选择的；选择性的
 selects,a. 挑选出来的；极好的
-self-contradictory,a. 自相矛盾的
-self-deceptive,a. 欺骗自己的；自欺的
-self-destructive,a. 自毁的
-self-development,n. 自我发展
-self-discipline,n. 自我训练；自我修养；自律
-self-driven,a. 自动的
-self-driving,自驾
-self-esteem,n. 自尊；自负；自大
-self-evident,a. 不言自明的
-self-expression,n. 自我表现
-self-observations,n. 对自身外貌的观察；自省；内省
-self-perception,自体知觉
-self-regulatory,adj. 自动调节的
-self-reliant,a. 独断独行的
-self-reports,自我报告
-self-respect,n. 自尊；自重
-self-sufficiency,n. 自足；自负
-self-sufficient,a. 自给自足的；极为自负的
-self-worth,n. 自尊
+self,n. 自己；自我；本性
 selfish,a. 自私的；利己主义的；自我中心的
 sell,vt. 卖；背叛；销售
 selling,a. 卖的；销路好的；出售的
@@ -4457,7 +4344,6 @@ semester,n. 学期
 send,vt. 发送；使进入；寄
 sends,vt. 发送（send第三人称单数）
 senior,n. 年长者；资深者；毕业班学生
-senior-friendly,a. 友好的；亲切的；互助的
 seniors,n. 年长者；资深者；毕业班学生
 sense,n. 感应；感觉；感官
 senses,n. 五官的感觉；知觉；理性
@@ -4519,7 +4405,6 @@ shopping,n. 买东西；购物
 shops,n. 商店；工厂；车间
 shore,n. 海岸；海滨；斜撑柱
 short,a. 短的；近的；矮的
-short-term,a. 短期的
 shortage,n. 不足；缺乏
 shortages,n. 不足；缺乏
 shortcut,n. 捷径；最短路线
@@ -4546,9 +4431,8 @@ sick,n. 病人
 side,n. 旁边；侧；方面
 sides,n. 旁边；侧；方面
 sifan,（专有名词）
+sighted,a. 有视力的；不盲的
 sign,n. 符号；招牌；征兆
-sign-up,n. 注册；签约
-sign-ups,n. 注册；签约
 signal,n. 信号；暗号；近因
 signalling,信号传输法
 signals,n. 信号；暗号；近因
@@ -4574,8 +4458,6 @@ simply,adv. 简单地；只是；简直
 since,prep. 自...以后；自...以来
 singh,n. 辛格（印度总理）；查理·拉杰（电影名）
 single,a. 单身的；单程的；单一的
-single-mindedness,n. 忠贞；专心
-single-use,供一次使用的
 sinks,n. 藏垢的场所；沟渠；污水槽
 sit,vi. 坐；就座；坐落
 site,n. 位置；场所；地点
@@ -4587,6 +4469,7 @@ size,n. 大小；尺寸；规模
 sizes,n. 象素显示尺寸；尺寸（size复数形式）
 skeptics,n. 怀疑者；怀疑论者；不可知论者
 skill,n. 技术；技巧；技能
+skilled,a. 熟练的
 skills,n. 技术；技巧；技能
 skip,n. 跳跃；跳读
 sky,n. 天空；天色；天堂
@@ -4612,7 +4495,6 @@ smells,n. 味道；气味；嗅觉
 smile,n. 微笑；喜色；笑容
 smith,n. 铁匠；金属品工匠
 so,adv. 如此；如是；如...那样
-so-called,a. 所谓的；号称的
 soak,n. 浸；湿透；大雨
 soar,n. 高扬；翱翔
 soaring,a. 高飞的；翱翔的；高耸入云的
@@ -4637,6 +4519,7 @@ solution,n. 解决；解答；溶液
 solutions,n. 解决；解答；溶液
 solve,vt. 解决；付给；溶解
 solved,a. 解决了的
+solving,v. 解决
 some,pron. 一些；一部分；若干
 somebody,n. 了不起的人；大人物
 somehow,adv. 不知何故
@@ -4651,7 +4534,7 @@ sorry,a. 难过的；悲哀的；遗憾的
 sort,n. 种类；方式；品质
 sorts,n. 种类；方式；品质
 sought,vt. 寻求；寻找；探索
-soul-searching,n. 自我反省；深思
+soul,n. 灵魂；心灵；精神
 sound,n. 声音；语音；吵闹
 sounds,n. 声音；语音；吵闹
 source,n. 来源；水源；根源
@@ -4728,8 +4611,6 @@ star,n. 星；恒星；星形物
 staring,a. 凝视的；瞪着眼的；显眼的
 starring,n. 扮演主角；领衔主演；纯锑表面呈星状花纹
 start,n. 惊起；出发；开端
-start-up,n. 启动
-start-ups,n. 启动
 started,n. 惊起；出发；开端
 starting,n. 开端；开始；出发
 startlingly,adv. 惊人地
@@ -4798,6 +4679,7 @@ strengthening,强化的；强化；加固
 stress,n. 压力；紧迫；强调
 stressful,a. 着重；强调；重读
 stretch,n. 伸展；张开；连绵
+stricken,a. 受打击的；负了伤的；衰老的
 strict,a. 严厉的；绝对的；详尽的
 stricter,a. 严厉的；绝对的；详尽的
 strike,n. 罢工；打击；殴打
@@ -4808,11 +4690,11 @@ striving,n. 努力；斗争
 strohminger,（专有名词）
 strokes,n. 中风
 strong,a. 强壮的；坚固的；坚强的
-strong-willed,a. 意志坚强的
 stronger,强劲的
 strongest,a. 强壮的；坚固的；坚强的
 strongly,adv. 强有力地；坚强地；激烈地
 structural,a. 结构的；建筑的
+structured,a. 有结构的
 struggle,n. 斗争；努力；奋斗
 struggling,a. 努力的；奋斗的；苦斗的
 stuart,n. 英国斯图亚特王室；斯图尔特（男子名；等于Stewart）
@@ -4855,6 +4737,7 @@ sudden,n. 突然；忽然
 sue,vt. 控告；起诉；请求
 suffer,vt. 遭受；经历；忍受
 suffering,n. 苦难；受苦
+sufficiency,n. 充足；充分的数量；自负
 sufficient,a. 充分的；足够的
 sufficiently,adv. 足够；充分
 sugars,n. 糖；糖块；甜言蜜语
@@ -4908,7 +4791,6 @@ suspended,a. 悬浮的；暂停的；缓期的（宣判）
 suspicious,a. 可疑的；多疑的；怀疑的
 sustainability,n. 持续性；能维持性；永续性
 sustainable,a. 足可支撑的；养得起的；可以忍受的
-sustainable-egg,n. 蛋；卵
 sustainably,adv. 支撑得住；能保持住地
 swap,n. 以货易货
 sweden,n. 瑞典
@@ -4936,6 +4818,7 @@ tailor,n. 裁缝；成衣匠
 tailwinds,n. 顺风
 take,vt. 拿；取；抓
 taken,vt. 拿；取；抓
+takers,n. 取者；捕者；接受者
 takes,vt. 取走；预备动作（take第三人称单数）
 taking,n. 取得；捕获；进款
 talent,n. 天才；才能；有才干的人
@@ -4947,7 +4830,6 @@ tank,n. 槽；箱；柜
 tanya,n. 塔尼娅（女子名）
 tapped,a. 分接的；抽头的；[语]发接触音的
 target,n. 目标；靶子；指标
-target-setting,n. 环境；背景；布景
 targets,n. 目标；靶子；指标
 task,n. 工作；任务；作业
 tasks,n. 工作；任务；作业
@@ -5037,6 +4919,7 @@ think,vt. 想；考虑；想起
 thinking,n. 思考；思想
 thinks,vt. 想；考虑；想起
 third,num. 第三；三分之一
+thirds,n. [法]归寡妇所得的亡夫遗产的三分之一；[商]（商品的）三等品
 this,pron. 这；本
 thomas,n. 多马(耶稣十二门徒之一)
 thorny,a. 多刺的；令人苦恼的
@@ -5051,7 +4934,6 @@ threatening,a. 胁迫的；危险的
 threatens,vt. 恐吓；威胁；预示...的凶兆
 threats,n. 恐吓；恶兆；威胁
 three,num. 三；三个
-three-quarters,a. 四分之三的；大半身的
 threshold,n. 门槛；入口；开端
 thresholds,n. 门槛；入口；开端
 thrive,vi. 繁荣；兴旺；茁壮成长
@@ -5065,16 +4947,18 @@ tickets,n. 票；券；车票
 ticks,n. 滴答声；一瞬间；壁虱
 tie,n. 带子；线；鞋带
 tied,n. 带子；线；鞋带
+tier,n. 排；层；等级
 ties,n. 结
-tight-lipped,a. 紧闭嘴唇的；寡言的
+tight,a. 紧的；密封的；吝啬的
 tightened,vt. 勒紧；使变紧
 tighter,a. 紧的；密封的；吝啬的
 tim,n. 蒂姆（男子名）
 timber,n. 木材；木料
 time,n. 时间；时侯；时机
-time-consuming,a. 耗时的
 timeline,n. 时间轴；时间表
 timely,a. 及时的；适时的
+timer,n. 计时员；计时器
+timers,n. 计时员；计时器
 times,n. 时代；境遇；时报
 timing,n. 时间选择；时间测定；定时
 tina,n. 蒂娜（女子名）
@@ -5089,7 +4973,6 @@ tiresome,a. 累人的；烦人的
 title,n. 头衔；名称；标题
 titles,n. 标题；字幕；主题（title复数形式）
 to,prep. 到；向；趋于
-to-do,n. 嚷闹；骚扰
 today,n. 今天；当今；现在
 together,adv. 一起；共同；彼此
 told,vt. 告诉；说；吩咐
@@ -5103,8 +4986,6 @@ took,vt. 拿；取；抓
 tool,n. 工具；机床；傀儡
 tools,n. 工具；机床；傀儡
 top,n. 顶部；顶端；极点
-top-down,a. 自顶向下
-top-tier,n. 排；层；等级
 topic,n. 主题；论题；话题
 toronto,n. 多伦多（加拿大城市）
 total,a. 全体的；总的；全然的
@@ -5166,7 +5047,6 @@ treating,处理
 treatment,n. 治疗；待遇；处理
 treatments,n. 治疗；待遇；处理
 tree,n. 树；木料；树状物
-tree-fruit,n. 水果；果类；结果
 trees,n. 树；木料；树状物
 tremendous,a. 巨大的；非常的；可怕的
 trend,n. 趋势；倾向；走向
@@ -5205,22 +5085,19 @@ turned,a. 变质的；被转动的；[金属加工]车削的
 turning,n. 旋转；转弯处；车削工作
 turnout,n. 聚集的人群；出席者；产量
 turns,n. 转弯；转动；旋转
-twenty-seven,二十七
+twenty,num. 二十；二十个
 twice,adv. 两次；两倍
 twist,n. 一扭；扭曲；曲折
 twitter,n. 啁啾；唧唧喳喳声
 two,num. 二；二个
-two-hour,n. 小时；钟头；时间
-two-thirds,quant. 三分之二
 type,n. 类型；样式；典型
 types,n. 类型；样式；典型
 typical,a. 典型的；象征性的
 typically,adv. 代表性地；作为特色地
 uk,n. 联合王国
-uk-based,n. 英国的；总部在英国的；联合王国的
 ulez,伦敦超低排放区（ULEZ）
 ultimately,adv. 最后；最终
-ultra-low,超低（的）
+ultra,a. 过分的；极端的
 unable,a. 不能的；不会的
 unafraid,a. 不怕的
 unavailable,a. 得不到的；不能利用的；无用的
@@ -5315,7 +5192,8 @@ upkeep,n. 维持；维修费
 upmarket,a. 高级的；高档的；高端的
 upon,prep. 在...之上；迫近；紧接着
 upped,a. 向上的；起床的；涨的
-upper-middle-class,上中产阶级
+upper,a. 上面的；较高的；上级的
+ups,不间断电源
 upside,n. 上侧；上段；上部
 upward,a. 向上的
 urban,a. 都市的；住在都市的；习惯于都市的
@@ -5329,7 +5207,6 @@ used,a. 使用过的；二手的；习惯的
 useful,a. 有用的；有益的
 useless,a. 无用的；无效的；无益的
 user,n. 使用者
-user-driven,a. 有紧迫感的
 users,n. 使用者
 using,使用
 usual,a. 平常的；通常的
@@ -5423,7 +5300,6 @@ waiter,n. 侍者
 waiters,n. 侍者
 waitlists,候补名单
 wake,vt. 叫醒；激发
-wake-up,唤醒
 wales,n. 威尔士
 walk,n. 走；散步；步行
 walking,n. 步行；步态
@@ -5473,7 +5349,6 @@ wearables,可穿戴设备
 wearing,a. 穿用的；使疲惫的；磨损的
 weather,n. 天气；气象；处境
 web,n. 网；蛛丝；蹼
-web-surfing,n. 冲浪运动
 webpage,n. 网页
 website,n. 网站（全球资讯网的主机站）
 websites,n. 网站（全球资讯网的主机站）
@@ -5484,7 +5359,6 @@ weekend,n. 周末；周末休假
 weekly,n. 周刊；周报
 weeks,n. 威克斯（姓氏）
 weigh,vt. 称...重量；衡量；把...压弯
-weigh-in,n. 赛前称体重
 weighing,称量
 weight,n. 重；重量；体重
 weighted,a. 偏向的；偏重的；有利的
@@ -5495,14 +5369,6 @@ welcoming,n. 欢迎；欢迎词
 welding,a. 焊的
 welfare,n. 福利；安宁；幸福
 well,n. 井；泉水；源泉
-well-advised,a. 审慎的；稳妥的；很细心的
-well-being,a. 安宁的；康乐的
-well-chosen,a. 精选的；适当的
-well-informed,a. 消息灵通的；博识的；见闻广博的
-well-known,a. 众所周知的；有名的
-well-paid,a. 高工资的；报酬优厚的
-well-researched,v. 做研究( research的过去式和过去分词 )；探究…
-well-structured,a. 有结构的
 wellbeing,n. 健康；幸福；福利
 wellesley,n. 韦尔兹利（姓氏）
 went,vi. 去；走；达到
@@ -5542,17 +5408,16 @@ wider,a. 宽的；广阔的；普遍的
 widespread,a. 充分伸展的；广布的；普及的
 wild,n. 荒野；荒地
 wildfire,n. (古时战争时所用的)燃料剂；磷火；鬼火
-wildfire-free,a. 自由的；享受政治权力的；允许的
 wildfires,n. (古时战争时所用的)燃料剂；磷火；鬼火
 wildlife,n. 野生动植物
 wiles,n. 诡计；骗人的把戏；圈套
 will,n. 意志；决心；意愿
+willed,a. 有...意志的
 william,n. 威廉（男子名）；[常作W-][美俚]钞票；纸币
 williams,n. 威廉姆斯（男子名）
 willing,a. 乐意的；自愿的；甘愿的
 willingness,n. 乐意；心甘情愿；愿意
 win,vt. 赢得；打胜；成功
-win-win,a. 对各方都有益的；双赢的
 wind,n. 风；气息；气味
 windows,n. 微软公司生产的“视窗”操作系统
 windswept,a. 风刮的；被风吹扫的；暴露在风中的
@@ -5586,15 +5451,10 @@ words,n. 话；消息；词
 wordsworth,n. 华滋华斯（英国诗人）
 wordy,a. 罗唆的；口头的；多言的
 work,n. 工作；劳动；职业
-work-free,a. 自由的；享受政治权力的；允许的
-work-life,n. 生活；生命；人生
-work-placement,n. 放置；布置；工作安排
-work-related,与工作有关的
 worker,n. 工人；劳动者
 workers,n. 工人；人员；角色（worker复数形式）
 workforce,n. 劳动力；工人总数；职工总数
 working,n. 工作；运转；劳动
-working-class,a. 工人阶级的
 workload,n. 工作量
 workloads,n. 工作量
 workout,n. 试验；试用；锻炼
@@ -5614,7 +5474,6 @@ worth,n. 价值；财产
 worthless,a. 无价值的；无益的；无足轻重的
 worthy,n. 杰出人物
 would,aux. 将；愿意
-would-be,a. 将要成为的；自称的；冒充的
 wouldn't,=would not
 wreck,n. 失事；残骸；破坏
 write,vt. 书写；著述；写
@@ -5628,7 +5487,6 @@ wrongdoings,n. 干坏事；坏事
 wrote,vt. 书写；著述；写
 wunderlist,Wunderlist（待办事项应用）
 year,n. 年；年度；年龄
-year-old,n. 以前；往昔
 years,n. 年代；岁月；年
 yes,adv. 是
 yesterday,n. 昨天
