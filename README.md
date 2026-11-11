@@ -29,12 +29,13 @@
 
 | 文件 | 说明 |
 | --- | --- |
-| `output/词频简表.xlsx` | 精简版：只有「单词」「词频」两列，5,657 行，按词频降序 |
+| `output/词频简表.xlsx` | 精简版：只有「单词」「中文意思」「词频」三列，5,657 行，按词频降序 |
 | `output/考研英语一2017-2026词频总表.xlsx` | 主表：统计说明、全量词频、正文词频、实词词频、分年份概览、分题型概览 |
 | `output/词频总表_全量.csv` | 全量词频表（含各年份次数、出现年份数、功能词/实词标记） |
 | `output/词频总表_正文.csv` | 正文词频表 |
 | `output/词频总表_实词.csv` | 实词词频表（已重新连续排名） |
 | `output/词频分析报告.html` | 可视化报告：词频排行、背词覆盖效率、分年份/分题型词量 |
+| `data/word_meanings.csv` | 5,657 个单词的中文释义对照表（释义来源：ECDICT 英汉词典） |
 
 ## 高频实词 Top 20（正文口径）
 
@@ -61,6 +62,13 @@
 | 19 | students | 32 | 7 |
 | 20 | often | 31 | 10 |
 
+## 中文释义说明
+
+- 释义取自开源词典 [ECDICT](https://github.com/skywind3000/ECDICT)（MIT License），每个词只保留前 1—3 个常用义项，并保留 `n.` `v.` `a.` 等词性缩写；
+- 变形词（`says`、`students`、`went`）优先给出其原形的意思；
+- 词典未收录的专有名词（人名、公司名、地名等）统一标注为「（专有名词）」，共 46 个；
+- 词典中确实缺少的真题派生词与新词（如 `reskilling`、`prosociality`、`parkrun`、`tipflation`）由 `scripts/build_word_meanings.py` 内的 `SUPPLEMENT` 表人工补齐。
+
 ## 分词与统计规则
 
 - 只统计由英文字母构成的单词，忽略数字、标点、选项标号（`[A]`）和 Markdown 标记；
@@ -75,15 +83,18 @@
 
 ```
 27-en-words-exam/
-├── 10年真题/                        # 原始试卷（2017.md — 2026.md）
-├── scripts/build_word_frequency.py  # 统计脚本（解析、分词、导出）
-└── output/                          # 生成的词频表与报告
+├── 10年真题/                          # 原始试卷（2017.md — 2026.md）
+├── scripts/build_word_frequency.py    # 统计脚本（解析、分词、导出）
+├── scripts/build_word_meanings.py     # 释义脚本（下载 ECDICT、生成中文意思）
+├── data/word_meanings.csv             # 单词 → 中文意思 对照表
+└── output/                            # 生成的词频表与报告
 ```
 
 ## 复现
 
 ```bash
-python scripts/build_word_frequency.py
+python scripts/build_word_meanings.py   # 先生成 data/word_meanings.csv（首次会下载词典）
+python scripts/build_word_frequency.py  # 再生成 output/ 下的全部表格与报告
 ```
 
-依赖：Python 3.9+、openpyxl（仅用于导出 Excel）。脚本会重新读取 `10年真题/` 下所有 Markdown 试卷并覆盖 `output/` 中的结果。
+依赖：Python 3.9+、openpyxl（仅用于导出 Excel）。`build_word_frequency.py` 若检测到 `data/word_meanings.csv` 会为简表补上「中文意思」列，否则只输出「单词 + 词频」两列。
