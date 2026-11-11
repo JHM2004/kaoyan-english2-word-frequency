@@ -591,6 +591,29 @@ def write_html(path: Path, data: dict) -> None:
     path.write_text(html_doc, encoding="utf-8")
 
 
+def write_simple_xlsx(path: Path, rows: list[dict]) -> None:
+    """精简版：只有「单词」「词频」两列。"""
+    from openpyxl import Workbook
+    from openpyxl.styles import Alignment, Font, PatternFill
+
+    wb = Workbook()
+    ws = wb.active
+    ws.title = "单词词频"
+    ws.append(["单词", "词频"])
+    for r in rows:
+        ws.append([r["word"], r["count"]])
+
+    for cell in ws[1]:
+        cell.fill = PatternFill("solid", fgColor="1F4E79")
+        cell.font = Font(color="FFFFFF", bold=True)
+        cell.alignment = Alignment(horizontal="center", vertical="center")
+    ws.column_dimensions["A"].width = 24
+    ws.column_dimensions["B"].width = 12
+    ws.freeze_panes = "A2"
+    ws.auto_filter.ref = ws.dimensions
+    wb.save(path)
+
+
 # ---------------------------------------------------------------- 主流程
 def main() -> None:
     OUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -614,6 +637,7 @@ def main() -> None:
     write_csv(OUT_DIR / "词频总表_实词.csv",
               renumber([r for r in rows_body if not r["is_stop"]]), years, True)
     write_xlsx(OUT_DIR / "考研英语一2017-2026词频总表.xlsx", data)
+    write_simple_xlsx(OUT_DIR / "词频简表.xlsx", rows_full)
     write_html(OUT_DIR / "词频分析报告.html", data)
 
     s = data["summary"]
